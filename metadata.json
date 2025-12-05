@@ -1,0 +1,5 @@
+{
+  "name": "CaiWu - Cute Financial Health Check",
+  "description": "A friendly tool to analyze corporate financial health from PDF reports using AI. Simply upload a report to see if the business gets a Green Light or Red Light.",
+  "requestFramePermissions": []
+}
